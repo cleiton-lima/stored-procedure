@@ -79,3 +79,4 @@ e fazer login no postgres a partir de lá. </p>
  
  ```nomeBanco=# \i nomeFuncao.sql ```
 
+-- Para mais informações, consulte a documentação em inglês [PL/pgSQL](https://www.postgresql.org/docs/9.5/static/plpgsql.html) ou em português [PL/pgSQL](http://pgdocptbr.sourceforge.net/pg80/plpgsql.html)
